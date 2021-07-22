@@ -1,0 +1,52 @@
+#main {
+  font-family: lucida console;
+  background: #C2D2FF;
+}
+
+h1 {
+  font-family: lucida console;
+  font-size: 40px;
+}
+
+#image {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+  border-radius: 45%;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+#img-div {
+  background: #94A4D1;
+  padding: 20px;
+}
+
+#tribute-info {
+  background-color: #94A4D1;
+  max-width: 800px;
+  margin: auto;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+ul {
+  line-height: 1.6;
+}
+
+blockquote {
+  background-color: #5C6FA3;
+  line-height: 25px;
+  font-size: 30px;
+  padding: 16px;
+  font-family: 'Dynalight', cursive;
+  letter-spacing: .5px;
+  border: 2px solid black;
+  border-radius: 30px;
+}
+
+.text-center {
+  text-align: center;
+}
